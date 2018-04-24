@@ -13,5 +13,7 @@ A collection of utility functions for wiseplat. It can be used in node.js or can
 # API
 [./docs/](./docs/index.md)
 
+Most of the sting manipulation methods are provided by [wshjs-util](https://github.com/wiseplat/npm2-wshjs-util)
+
 # LICENSE
 MPL-2.0
